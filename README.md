@@ -6,6 +6,7 @@ Generate QR Code: Enter any text or URL in the input field to create a QR code.
 Preview QR Code: View the generated QR code within the application.
 Save QR Code: Save the generated QR code as a PNG image file.
 Responsive Interface: The application is built with a responsive interface, making it easy to use.
+
 **Technologies Used**
 Python: The main programming language.
 Tkinter: Used for building the graphical user interface (GUI).
