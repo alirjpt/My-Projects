@@ -12,6 +12,7 @@ Python: The main programming language.
 Tkinter: Used for building the graphical user interface (GUI).
 qrcode: A Python library used to generate QR codes.
 Pillow (PIL): Used for handling and processing the images.
+
 **Usage**
 Launch the application by running the script.
 Enter the text or URL that you want to convert into a QR code in the input field.
